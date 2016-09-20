@@ -4,13 +4,12 @@ pagetitle: Propiedad intelectual y derechos humanos
 license: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 ---
 
-# Feria del Libro Juan Filloy (Río Cuarto)
+## Feria del Libro Juan Filloy (Río Cuarto)
 
 # Presentación del libro: 
 ## Propiedad intelectual y derechos humanos. Hacia un sistema de derechos de autor que promueva los derechos culturales.
 
-### Lugar: Salon blanco de la municipalidad de Río Cuarto
-### Fecha y hora: Viernes 7 de Octubre 2016, 20h
+### Salon blanco de la municipalidad de Río Cuarto, Viernes 7 de Octubre 2016, 20h
 
 - Autora: **Beatriz Busaniche**
 - Editores: Fundación Vía Libre y Tren en movimiento, con el apoyo de la Fundación Heinrich Böll
