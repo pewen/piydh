@@ -6,8 +6,12 @@ license: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><im
 
 ## Feria del Libro Juan Filloy (Río Cuarto)
 
-## Presentación del libro: 
+## Presentación del libro y conferencia
 ## Propiedad intelectual y derechos humanos. Hacia un sistema de derechos de autor que promueva los derechos culturales.
+
+### Beatriz Busaniche
+
+### Presentación a cargo de Lila Pagoda
 
 ![](./img/bea.jpg)
 
