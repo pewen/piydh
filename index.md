@@ -7,21 +7,18 @@ license: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><im
 ## Feria del Libro Juan Filloy (Río Cuarto)
 
 ## Presentación del libro y conferencia
-## Propiedad intelectual y derechos humanos. Hacia un sistema de derechos de autor que promueva los derechos culturales.
+## "Propiedad intelectual y derechos humanos. Hacia un sistema de derechos de autor que promueva los derechos culturales."
 
-### Beatriz Busaniche
-### Presentación a cargo de Lila Pagoda
+### Beatriz Busaniche. Presentación a cargo de Lila Pagoda
 
 ![](./img/bea.jpg)
 
-### Viernes 7 de Octubre 2016, 20hs, Salon blanco, Municipalidad de Río Cuarto.
+### 7 Oct 2016, 20hs, Salon blanco, Municipalidad de Río Cuarto.
 
 - Autora: **Beatriz Busaniche**
 - Editores: Fundación Vía Libre y Tren en movimiento, con el apoyo de la Fundación Heinrich Böll
 - Año de publicación: 2016
-- ISBN: 978-987-3789-20-5
-
-- Descripción: ¿Cómo compatibilizar el derecho de autor con el derecho de acceso y participación a la cultura que promueven y protegen diversos instrumentos de derechos humanos? El libro aborda esta cuestión a través de un estudio pormenorizado de los principales pactos de Derechos Humanos y tratados internacionales de propiedad intelectual. Adopta una perspectiva histórica para mostrar las discusiones, sumamente vigentes, que tuvieron lugar durante las negociaciones para incluir los derechos culturales en los instrumentos de derechos humanos. Analiza las tensiones entre el marco normativo de derechos humanos y los tratados comerciales. Brinda claves y propuestas para la construcción de una ley de derechos autorales que promueva el ejercicio de los derechos culturales.
+- Descripción: **¿Cómo compatibilizar el derecho de autor con el derecho de acceso y participación a la cultura que promueven y protegen diversos instrumentos de derechos humanos? El libro aborda esta cuestión a través de un estudio pormenorizado de los principales pactos de Derechos Humanos y tratados internacionales de propiedad intelectual. Adopta una perspectiva histórica para mostrar las discusiones, sumamente vigentes, que tuvieron lugar durante las negociaciones para incluir los derechos culturales en los instrumentos de derechos humanos. Analiza las tensiones entre el marco normativo de derechos humanos y los tratados comerciales. Brinda claves y propuestas para la construcción de una ley de derechos autorales que promueva el ejercicio de los derechos culturales.**
 
 Se puede descargar libremente el libro en el siguiente link [PIyDH_Busaniche](
 http://www.vialibre.org.ar/wp-content/uploads/2016/04/piydh_busaniche.pdf)
