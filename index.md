@@ -9,7 +9,7 @@ license: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><im
 ## Presentación del libro y conferencia
 ## "Propiedad intelectual y derechos humanos. Hacia un sistema de derechos de autor que promueva los derechos culturales."
 
-### Beatriz Busaniche. Presentación a cargo de Lila Pagoda
+### Beatriz Busaniche. Presentación a cargo de Lila Pagoda y Javier Blanco.
 
 ![](./img/bea.jpg)
 
