@@ -9,6 +9,8 @@ license: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><im
 ## Presentación del libro: 
 ## Propiedad intelectual y derechos humanos. Hacia un sistema de derechos de autor que promueva los derechos culturales.
 
+![](./img/bea.jpg)
+
 ### Salon blanco de la municipalidad de Río Cuarto, Viernes 7 de Octubre 2016, 20h
 
 - Autora: **Beatriz Busaniche**
