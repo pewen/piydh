@@ -13,7 +13,7 @@ license: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><im
 
 ![](./img/bea.jpg)
 
-### 7 Oct 2016, 20hs, Salon blanco, Municipalidad de Río Cuarto.
+### 7 Oct 2016 20hs, Salon blanco Municipalidad de Río Cuarto.
 
 - Autora: **Beatriz Busaniche**
 - Editores: Fundación Vía Libre y Tren en movimiento, con el apoyo de la Fundación Heinrich Böll
