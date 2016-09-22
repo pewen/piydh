@@ -2,12 +2,21 @@
 pagetitle: Propiedad intelectual y derechos humanos
 
 license: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+debug: true
 ---
 
-## Feria del Libro Juan Filloy (Río Cuarto)
+<div class="page-header">
+<h1 class="page-header">
+"Propiedad intelectual y derechos humanos. Hacia un sistema de derechos de autor que promueva los derechos culturales."
+</h1>
+<h2 class="project-tagline">
+Presentación del libro y conferencia en la Feria del Libro Juan Filloy (Río Cuarto)
+</h2>
+</div>
 
-## Presentación del libro y conferencia
-## "Propiedad intelectual y derechos humanos. Hacia un sistema de derechos de autor que promueva los derechos culturales."
+
+<section class="main-content">
 
 ### **Beatriz Busaniche.**
 ### Presentación a cargo de Lila Pagola y Javier Blanco.
@@ -23,3 +32,5 @@ license: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><im
 
 Se puede descargar libremente el libro en el siguiente link [PIyDH_Busaniche](
 http://www.vialibre.org.ar/wp-content/uploads/2016/04/piydh_busaniche.pdf)
+
+</section>
