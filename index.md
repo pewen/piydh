@@ -1,22 +1,7 @@
 ---
-pagetitle: Propiedad intelectual y derechos humanos
-
-license: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
-debug: true
+layout: default
+title: {{ site.name }}
 ---
-
-<div class="page-header">
-<h1 class="page-header">
-"Propiedad intelectual y derechos humanos. Hacia un sistema de derechos de autor que promueva los derechos culturales."
-</h1>
-<h2 class="project-tagline">
-Presentación del libro y conferencia en la Feria del Libro Juan Filloy (Río Cuarto)
-</h2>
-</div>
-
-
-<section class="main-content">
 
 ### **Beatriz Busaniche.**
 ### Presentación a cargo de Lila Pagola y Javier Blanco.
@@ -24,6 +9,13 @@ Presentación del libro y conferencia en la Feria del Libro Juan Filloy (Río Cu
 ![](./img/bea.jpg)
 
 ### 7 Oct 2016 20hs, Salon blanco Municipalidad de Río Cuarto.
+
+### Organiza
+
+Secretaría de Extensión  
+Programa de difusión y uso del Software Libre  
+Cátedra abierta Florial Gorini  
+Facultad de Ciencias Económicas (UNRC).
 
 - Autora: **Beatriz Busaniche**
 - Editores: Fundación Vía Libre y Tren en movimiento, con el apoyo de la Fundación Heinrich Böll
@@ -33,4 +25,3 @@ Presentación del libro y conferencia en la Feria del Libro Juan Filloy (Río Cu
 Se puede descargar libremente el libro en el siguiente link [PIyDH_Busaniche](
 http://www.vialibre.org.ar/wp-content/uploads/2016/04/piydh_busaniche.pdf)
 
-</section>
