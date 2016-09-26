@@ -11,13 +11,6 @@ title: {{ site.name }}
 
 ### 7 Oct 2016 20hs, Salon blanco Municipalidad de Río Cuarto.
 
-### Organiza
-
-Secretaría de Extensión  
-Programa de difusión y uso del Software Libre  
-Cátedra abierta Florial Gorini  
-Facultad de Ciencias Económicas (UNRC).
-
 - Autora: **Beatriz Busaniche**
 - Editores: Fundación Vía Libre y Tren en movimiento, con el apoyo de la Fundación Heinrich Böll
 - Año de publicación: 2016
@@ -25,3 +18,10 @@ Facultad de Ciencias Económicas (UNRC).
 
 Se puede descargar libremente el libro en el siguiente link [PIyDH_Busaniche](
 http://www.vialibre.org.ar/wp-content/uploads/2016/04/piydh_busaniche.pdf)
+
+### Organiza
+
+Secretaría de Extensión  
+Programa de difusión y uso del Software Libre  
+Cátedra abierta Florial Gorini  
+Facultad de Ciencias Económicas (UNRC).
