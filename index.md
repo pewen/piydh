@@ -4,6 +4,7 @@ title: {{ site.name }}
 ---
 
 ### **Beatriz Busaniche.**
+
 ### Presentación a cargo de Lila Pagola y Javier Blanco.
 
 ![](./img/bea.jpg)
@@ -24,4 +25,3 @@ Facultad de Ciencias Económicas (UNRC).
 
 Se puede descargar libremente el libro en el siguiente link [PIyDH_Busaniche](
 http://www.vialibre.org.ar/wp-content/uploads/2016/04/piydh_busaniche.pdf)
-
