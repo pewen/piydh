@@ -3,11 +3,11 @@ layout: default
 title: {{ site.name }}
 ---
 
+![](./img/bea.jpg)
+
 ### **Beatriz Busaniche.**
 
 ### Presentación a cargo de Lila Pagola y Javier Blanco.
-
-![](./img/bea.jpg)
 
 ### 7 Oct 2016 20hs, Salon blanco Municipalidad de Río Cuarto.
 
@@ -25,3 +25,5 @@ Secretaría de Extensión
 Programa de difusión y uso del Software Libre  
 Cátedra abierta Florial Gorini  
 Facultad de Ciencias Económicas (UNRC).
+
+![](./img/FlorealGorini.png)
