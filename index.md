@@ -25,5 +25,4 @@ Secretaría de Extensión
 Programa de difusión y uso del Software Libre  
 Cátedra abierta Florial Gorini  
 Facultad de Ciencias Económicas (UNRC).
-
 ![](./img/FlorealGorini.png)
