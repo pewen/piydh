@@ -9,7 +9,7 @@ title: {{ site.name }}
 
 ### Presentación a cargo de Lila Pagola y Javier Blanco.
 
-### 7 Oct 2016 20hs, Salon blanco Municipalidad de Río Cuarto.
+### 7 Oct 2016 20hs, Salón blanco Municipalidad de Río Cuarto.
 
 - Autora: **Beatriz Busaniche**
 - Editores: Fundación Vía Libre y Tren en movimiento, con el apoyo de la Fundación Heinrich Böll
