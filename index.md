@@ -7,7 +7,7 @@ title: {{ site.name }}
 
 ### **Beatriz Busaniche.**
 
-### 7 Oct 2016 20hs, Salón blanco Municipalidad de Río Cuarto.
+### 7 Oct 2016 20hs, Salón Blanco de la Municipalidad de Río Cuarto.
 
 #### Presentación a cargo de Lila Pagola y Javier Blanco.
 
