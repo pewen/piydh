@@ -5,7 +5,7 @@ title: {{ site.name }}
 
 ![](./img/bea.jpg)
 
-### **Beatriz Busaniche.**
+### **Beatriz Busaniche, presidente de Fundación Vía Libre**
 
 ### 7 Oct 2016 20hs, Salón Blanco de la Municipalidad de Río Cuarto.
 
@@ -19,6 +19,16 @@ title: {{ site.name }}
 
 Se puede descargar libremente el libro en el siguiente link [PIyDH_Busaniche](
 http://www.vialibre.org.ar/wp-content/uploads/2016/04/piydh_busaniche.pdf)
+
+### Algunas entrevistas a Beatríz sobre el tema
+
+- [Las tensiones entre el derecho a la cultura y el derecho de autor](https://www.youtube.com/watch?v=No5H0WWcO-8)
+- [Derecho de autor como derecho humano](https://www.youtube.com/watch?v=rPvkHoaxeXo)
+- [Los abusos del derecho de autor](https://www.youtube.com/watch?v=olM2HE7iUgY)
+- [Derechos de autor y fotocopias](https://www.youtube.com/watch?v=gAF6_vjxl68)
+- [Polémica por la violación a los derechos de autor](https://www.youtube.com/watch?v=b-CbrmCW1vY)
+- [Copyright vs Copyleft](https://www.youtube.com/watch?v=smBuZdpCL1o)
+- [¿De quién son tus ideas?](https://www.youtube.com/watch?v=c-0tEvw1i4s)
 
 ### Organiza
 
