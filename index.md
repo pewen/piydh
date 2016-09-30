@@ -24,6 +24,7 @@ http://www.vialibre.org.ar/wp-content/uploads/2016/04/piydh_busaniche.pdf)
 
 - [Las tensiones entre el derecho a la cultura y el derecho de autor](https://www.youtube.com/watch?v=No5H0WWcO-8)
 - [Derecho de autor como derecho humano](https://www.youtube.com/watch?v=rPvkHoaxeXo)
+- [Día del Libro y del Derecho a Leer](https://www.youtube.com/watch?v=rxGqkkaBLnc)
 - [Los abusos del derecho de autor](https://www.youtube.com/watch?v=olM2HE7iUgY)
 - [Derechos de autor y fotocopias](https://www.youtube.com/watch?v=gAF6_vjxl68)
 - [Beatriz Busaniche sobre la cultura, la privacidad y los derechos en Internet](https://www.youtube.com/watch?v=lCQ_GA1nmtk)
